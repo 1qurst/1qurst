@@ -8,9 +8,7 @@
 - ⚡ Fun fact: I can solve a Rubik's cube in under one minute!
 
 ### 🚀 Quick Links
-[![Portfolio](https://img.shields.io/badge/My_Portfolio-blue?style=for-the-badge)](https://your-portfolio-link.com)
-[![GitHub](https://img.shields.io/badge/My_GitHub-black?style=for-the-badge)](https://github.com/1qurst)
-[![LinkedIn](https://img.shields.io/badge/My_LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/your-linkedin-id)
+[![My Website](https://img.shields.io/badge/My_GitHub-black?style=for-the-badge)](https://holidaycountdowns.xyz)
 
 ### 📂 Featured Projects
 <!-- Replace 'repo1', 'repo2' with your GitHub repository names -->
