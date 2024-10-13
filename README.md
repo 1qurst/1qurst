@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on **innovative web applications** and **AI-driven projects**.
 - 📫 How to reach me: [Email](mailto:1qurstofficial@gmail.com)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can solve a Rubik's cube in under one minute!
+- ⚡ Fun fact: There's no fun fact to be seen.
 
 ### 🚀 Quick Links
 [![My Website](https://img.shields.io/badge/My_GitHub-black?style=for-the-badge)](https://holidaycountdowns.xyz)
